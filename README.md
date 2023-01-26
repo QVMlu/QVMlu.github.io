@@ -1,3 +1,3 @@
 # BigDayDream.github.io
 
-# It's my homepage.
+  Hi! I'm Sibo Lu from BJTU. It's my homepage.
